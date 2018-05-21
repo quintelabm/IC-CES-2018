@@ -5,7 +5,7 @@ Desenvolvimento de Sistemas para Tomada de Decisão em Saúde Utilizando Técnic
 
 ## Objetivo
 
-O objetivo geral do presente projeto de pesquisa é aplicar o conhecimento de desenvolvimento de sistemas para atender demandas das áreas de saúde. [Mais info](https://github.com/quintelabm/IC-Modelagem-CESJF-2018/blob/master/Projeto.md)
+O objetivo geral do presente projeto de pesquisa é aplicar o conhecimento de desenvolvimento de sistemas para atender demandas das áreas de saúde. [Mais info](Projeto.md)
 
 ## Tópicos:
 
