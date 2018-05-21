@@ -5,7 +5,7 @@ Desenvolvimento de Sistemas para Tomada de Decisão em Saúde Utilizando Técnic
 
 ## Objetivo
 
-O objetivo geral do presente projeto de pesquisa é aplicar o conhecimento de desenvolvimento de sistemas para atender demandas das áreas de saúde. [Mais info](Projeto.md)
+O objetivo geral do presente projeto de pesquisa é aplicar o conhecimento de desenvolvimento de sistemas para atender demandas das áreas de saúde. [Mais info](/Projeto.md/)
 
 ## Tópicos:
 
